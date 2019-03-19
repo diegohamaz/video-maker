@@ -9,7 +9,12 @@ File: `algorithmia.json`
   "apiKey": "sim8As72h56j3mBYqEOSHfLE4k81"
 }
 ```
-
+{
+	"name": "fractal",
+	"description": "",
+	"createdAt": "2019-03-19T03:23+0000",
+	"apiKey": "_0-XH5PjuGxp5Nt3owFQBrMcQRNxT0TUXlHEUdwQ8VyC"
+}
 ## Watson Natural Language Understanding
 
 File: `watson-nlu.json`
